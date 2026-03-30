@@ -74,7 +74,7 @@ const pooja = {
 I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pooja-patel-574d/)
-- 📧 Email: Available on LinkedIn
+- 📧 Email: patel.pooja574@gmail.com
 - 🐙 [GitHub](https://github.com/pooja269)
 
 ---
